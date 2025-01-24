@@ -76,7 +76,7 @@ def binary_search(arr, target):
 
 ### 1. Comparison of All Search Algorithms
 
-![Comparison of All Search Algorithms](comparison_all.pdf)
+![Comparison of All Search Algorithms](comparison_all.png)
 
 **Observations:**
 - **Linear Search:** Step count grows linearly.
