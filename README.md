@@ -87,7 +87,7 @@ def binary_search(arr, target):
 
 ### 2. Jump Search vs. Binary Search
 
-![Comparison of Jump vs Binary Search](comparison_jump_vs_binary.pdf)
+![Comparison of Jump vs Binary Search](comparison_jump_vs_binary.png)
 
 **Observations:**
 - Jump Search performs better than Linear but falls behind Binary for larger values of `n`.
@@ -95,7 +95,7 @@ def binary_search(arr, target):
 
 ### 3. Grouped Bar Chart: Average Steps for Different Input Sizes
 
-![Grouped Bar Chart](grouped_bar_many_sizes.pdf)
+![Grouped Bar Chart](grouped_bar_many_sizes.png)
 
 **Observations:**
 - Binary Search consistently requires fewer steps compared to the other methods.
@@ -103,7 +103,7 @@ def binary_search(arr, target):
 
 ### 4. Individual Growth Trends
 
-![Individual Growth Trends](individual_plots.pdf)
+![Individual Growth Trends](individual_plots.png)
 
 **Observations:**
 - The measured results closely follow the theoretical complexity predictions.
