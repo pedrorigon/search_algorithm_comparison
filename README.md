@@ -30,8 +30,6 @@ def linear_search(arr, target):
 - Space complexity: **O(1)**.
 
 ```python
-import math
-
 def jump_search(arr, target):
     steps = 0
     n = len(arr)
